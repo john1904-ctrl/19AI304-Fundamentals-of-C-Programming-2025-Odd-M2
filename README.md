@@ -232,6 +232,10 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+
+### output 
+[exp 2 cprogramming.pdf](https://github.com/user-attachments/files/23729153/exp.2.cprogramming.pdf)
+
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
